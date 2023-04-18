@@ -1,4 +1,11 @@
 .App {
   text-align: center;
 }
-
+.card{
+  margin:2%;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
